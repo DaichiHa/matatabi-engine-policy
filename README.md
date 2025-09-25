@@ -4,7 +4,6 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>プライバシーポリシー | Matatabi Engine</title>
 </head>
 <body>
   <h1>プライバシーポリシー</h1>
